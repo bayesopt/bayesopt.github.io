@@ -1,0 +1,20 @@
+# Site settings
+title: BayesOpt 2014
+description: "
+NIPS Workshop on Bayesian Optimization
+<br>December 12, 2014
+<br>Montreal, Canada"
+baseurl: ""
+url: "http://bayesopt.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
+
