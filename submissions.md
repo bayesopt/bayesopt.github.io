@@ -32,8 +32,8 @@ this does not constitute an archival publication and no formal workshop
 proceedings will be made available, meaning contributors are free to publish
 their work in archival journals or conference.
 
-*Paper submissions will be made through this website. Further submission
-instructions will be posted shortly!*
+Submissions can be made through
+[cmt.research.microsoft.com/BO2014](https://cmt.research.microsoft.com/BO2014).
 
 
 Important dates
