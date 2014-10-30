@@ -1,6 +1,7 @@
 ---
 title: Schedule
 permalink: /schedule.html
+weight: 0
 ---
 
 Workshop schedule
@@ -8,7 +9,6 @@ Workshop schedule
 
 *Below is a preliminary outline of the workshop schedule.*
 
-|          |
 | --------:| ---------------------------------------------------
 |  8:30 AM | Introduction and opening remarks
 |  8:50 AM | Invited talk 1

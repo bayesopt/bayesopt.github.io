@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: /index.html
+weight: -1
 ---
 
 Bayesian Optimization in Academia and Industry

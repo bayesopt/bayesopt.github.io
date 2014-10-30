@@ -17,15 +17,11 @@
       <header>
         <h1>{{ site.title }}</h1>
         <p>{{ site.description }}</p>
-        {% for page in site.pages %}
+        {% assign pages = site.pages | sort:"weight"  %}
+        {% for page in pages %}
         <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         <br>
         {% endfor %}
-        <br>
-        <b>The deadline for submissions is Oct. <strike>23rd</strike> 26th!</b>
-        Due to popular demand we have pushed the deadline by a few days.
-        Submit at <a
-        href="https://cmt.research.microsoft.com/BO2014">cmt.research.microsoft.com/BO2014</a>!
       </header>
       <section>
         {{ content }}

@@ -1,6 +1,7 @@
 ---
 title: Submissions
 permalink: /submissions.html
+weight: 0
 ---
 
 Call for papers
@@ -39,7 +40,7 @@ Submissions can be made through
 Important dates
 ----------------
 
-- Submission deadline: October 23rd
+- Submission deadline: October <strike>23rd</strike> 26th
 - Notification: November 6th
 - Camera ready: December 3rd
 
