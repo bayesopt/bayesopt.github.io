@@ -20,7 +20,7 @@ of our invited speakers.
 | 12:00 PM | Break
 |  3:00 PM | Steve Scott (Google)
 |  3:25 PM | Aish Fenton (Netflix)
-|  3:50 PM | Julien Cornebise (DeepMind)
+|  3:50 PM | Julien Cornebise (Google DeepMind)
 |  4:15 PM | Poster session 2
 |  5:00 PM | Coffee Break
 |  5:30 PM | Panel discussion&mdash;Bridging research and Industry
@@ -72,3 +72,13 @@ possible.
 ### Aish Fenton
 
 ### Julien Cornebise
+
+In this informal and much practical talk, I will present the story of our
+deployment and tentative use of Spearmint in an then early day Deep Learning
+start-up context: why and who we intended it for, what we needed and did in
+order to achieve it, what went right, what we would do differently. More
+generally, we will elaborate on  a few lessons we have learned, and how some
+recent developments in the community give us hope in this regard, looking
+forward to suscitate discussions for future GP applications to the field. Joint
+work with Andrei Rusu.
+

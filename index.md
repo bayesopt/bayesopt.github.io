@@ -56,7 +56,7 @@ Invited speakers and panelists
 - [Steve Scott](http://stevethebayesian.com) (Google)
 - [Daniel Russo](http://web.stanford.edu/~djrusso) (Stanford)
 - [Xavier Amatriain](http://xavier.amatriain.net/) (Netflix)
-- [Julien Cornebise](http://www.cornebise.com/julien/) (DeepMind)
+- [Julien Cornebise](http://www.cornebise.com/julien/) (Google DeepMind)
 - [Robert Gramacy](http://faculty.chicagobooth.edu/robert.gramacy) (University of Chicago)
 
 
