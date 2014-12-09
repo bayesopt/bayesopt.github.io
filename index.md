@@ -55,7 +55,7 @@ Invited speakers and panelists
 - [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/) (Oxford)
 - [Steve Scott](http://stevethebayesian.com) (Google)
 - [Daniel Russo](http://web.stanford.edu/~djrusso) (Stanford)
-- [Xavier Amatriain](http://xavier.amatriain.net/) (Netflix)
+- [<strike>Xavier Amatriain</strike>](http://xavier.amatriain.net/) Aish Fenton (Netflix)
 - [Julien Cornebise](http://www.cornebise.com/julien/) (Google DeepMind)
 - [Robert Gramacy](http://faculty.chicagobooth.edu/robert.gramacy) (University of Chicago)
 

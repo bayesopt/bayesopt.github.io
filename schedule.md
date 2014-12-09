@@ -34,6 +34,18 @@ some recent progress, and open problems.
 
 ### Daniel Russo
 
+There has been significant recent interest in extending multi-armed bandit
+techniques to address problems with more complex information structures, in
+which sampling one action can inform the decision-maker’s assessment of other
+actions. We formulate a broad class of such problems, and propose a new
+algorithm---information-directed sampling---which is inspired by a fresh,
+information-theoretic perspective on the exploration/exploitation tradeoff. We
+establish a general expected regret bound for the algorithm and demonstrate
+strong simulation performance for the widely studied Bernoulli, Gaussian, and
+linear bandit problems. Simple analytic examples show information-directed
+sampling can dramatically outperform Thompson sampling and UCB algorithms.
+
+
 ### Robert Gramacy
 
 Constrained blackbox optimization is a difficult problem, with most
@@ -70,6 +82,12 @@ modified as the experiment progresses to make the experiment as inexpensive as
 possible.
 
 ### Aish Fenton
+
+Netflix is constantly experimenting with new models and techniques. If you're
+experimentally driven, then the cost of training and tuning models becomes a
+significantly limiting factor for how fast innovation can move. In this talk we
+share the practical aspects of how Netflix uses Bayesian Optimization, and the
+real-world challenges we’ve encountered.
 
 ### Julien Cornebise
 
