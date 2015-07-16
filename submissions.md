@@ -40,7 +40,7 @@ Submissions can be made through
 Important dates
 ----------------
 
-- Submission deadline: October <strike>23rd</strike> 26th
-- Notification: November 6th
-- Camera ready: December 3rd
+- Submission deadline: October <strike>23rd</strike> 26th, 2014
+- Notification: November 6th, 2014
+- Camera ready: December 3rd, 2014
 
