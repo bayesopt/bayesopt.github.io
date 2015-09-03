@@ -4,8 +4,7 @@ permalink: /submissions.html
 weight: 0
 ---
 
-Call for papers
-----------------
+## Call for papers
 
 The *NIPS Workshop on Bayesian Optimization* is calling for contributions on
 theoretical models, empirical studies, and applications of Bayesian
@@ -14,14 +13,13 @@ datasets. Topics of interest (though not exhaustive) include:
 
 - Bayesian optimization
 - Sequential experimental design and bandits
-- Applications, e.g., automatic parameter tuning, active sensing, robotics
-- Related areas: active learning, reinforcement learning, etc.
+- Applications, in industry or academia, other scientific disciplines welcome
+- Related areas, e.g., active learning, reinforcement learning
 
 See also the [workshop overview](index.html) for more details.
 
 
-Submission instructions
-------------------------
+## Submission instructions
 
 Papers must be in the latest NIPS format, but with a maximum of 4 pages
 (excluding references). Papers can be either anonymized or not (i.e. you can
@@ -33,14 +31,15 @@ this does not constitute an archival publication and no formal workshop
 proceedings will be made available, meaning contributors are free to publish
 their work in archival journals or conference.
 
+Stay tuned for a link to CMT...
+<!--
 Submissions can be made through
-[cmt.research.microsoft.com/BO2014](https://cmt.research.microsoft.com/BO2014).
+[cmt.research.microsoft.com/BO2015](https://cmt.research.microsoft.com/BO2015).
+-->
 
+## Important dates
 
-Important dates
-----------------
-
-- Submission deadline: October <strike>23rd</strike> 26th, 2014
-- Notification: November 6th, 2014
-- Camera ready: December 3rd, 2014
+- Submission deadline: October 23rd, 2015
+- Notification: November 2nd, 2015
+- Camera ready: December 4th, 2015
 

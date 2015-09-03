@@ -9,94 +9,38 @@ weight: 0
 The schedule for our workshop follows. Below that are short abstracts for each
 of our invited speakers.
 
+Saturday 12 December, 2015
+
 | --------:| ---------------------------------------------------
-|  8:30 AM | Introduction and opening remarks
-|  8:50 AM | Nando de Freitas (University of Oxford)
-|  9:25 AM | Robert Gramacy (University of Chicago)
-| 10:00 AM | Coffee Break
-| 10:30 AM | Daniel Russo (Stanford University)
-| 11:05 AM | Poster spotlights
-| 11:20 AM | Poster session 1
-| 12:00 PM | Break
-|  3:00 PM | Steve Scott (Google)
-|  3:25 PM | Aish Fenton (Netflix)
-|  3:50 PM | Julien Cornebise (Google DeepMind)
-|  4:15 PM | Poster session 2
-|  5:00 PM | Coffee Break
-|  5:30 PM | Panel discussion&mdash;Bridging research and Industry
-|  6:30 PM | End 
+|  9:00 AM | Introduction and opening remarks
+|  9:25 AM | Invited talk
+|  9:50 AM | Invited talk
+| 10:15 AM | Coffee Break
+| 10:45 AM | Invited talk
+| 11:10 AM | Poster spotlights
+| 11:30 AM | Poster session
+| 12:30 PM | Break
+|  3:00 PM | Invited talk
+|  3:25 PM | Invited talk
+|  3:50 PM | Poster session
+|  4:30 PM | Coffee Break
+|  5:00 PM | Panel discussion&mdash;Scalability and flexibility
+|  6:00 PM | End 
 
 
-### Nando de Freitas
+### Zoubin Ghahramani
 
-I will present of an overview of current challenges in Bayesian optimization,
-some recent progress, and open problems.
+Abstract to come.
 
-### Daniel Russo
+### Andreas Krause
 
-There has been significant recent interest in extending multi-armed bandit
-techniques to address problems with more complex information structures, in
-which sampling one action can inform the decision-maker’s assessment of other
-actions. We formulate a broad class of such problems, and propose a new
-algorithm---information-directed sampling---which is inspired by a fresh,
-information-theoretic perspective on the exploration/exploitation tradeoff. We
-establish a general expected regret bound for the algorithm and demonstrate
-strong simulation performance for the widely studied Bernoulli, Gaussian, and
-linear bandit problems. Simple analytic examples show information-directed
-sampling can dramatically outperform Thompson sampling and UCB algorithms.
+Abstract to come.
 
+### Jeff Schneider
 
-### Robert Gramacy
+Abstract to come.
 
-Constrained blackbox optimization is a difficult problem, with most
-approaches coming from the mathematical programming literature. The
-statistical literature is sparse, especially in addressing problems
-with nontrivial constraints. This situation is unfortunate because
-statistical methods have many attractive properties: global scope,
-handling noisy objectives, sensitivity analysis, and so forth. To
-narrow that gap, we propose a combination of response surface
-modeling, expected improvement, and the augmented Lagrangian numerical
-optimization framework. This hybrid approach allows the statistical
-model to think globally and the augmented Lagrangian to act locally.
-We focus on problems where the constraints are the primary bottleneck,
-requiring expensive simulation to evaluate and substantial modeling
-effort to map out. In that context, our hybridization presents a
-simple yet effective solution that allows existing objective-oriented
-statistical approaches, like those based on Gaussian process
-surrogates and expected improvement heuristics, to be applied to the
-constrained setting with minor modification. This work is motivated by
-a challenging, real-data benchmark problem from hydrology where, even
-with a simple linear objective function, learning a nontrivial valid
-region complicates the search for a global minimum.
+### Marc Deisenroth
 
-
-### Steve Scott
-
-The modern service economy is substantively different from the agricultural and
-manufacturing economies that preceded it. In particular, the cost of
-experimenting is dominated by opportunity cost rather than the cost of obtaining
-experimental units. The different economics require a new class of experiments,
-in which stochastic models play an important role. This article briefly
-summarizes mulit-armed bandit experiments, where the experimental design is
-modified as the experiment progresses to make the experiment as inexpensive as
-possible.
-
-### Aish Fenton
-
-Netflix is constantly experimenting with new models and techniques. If you're
-experimentally driven, then the cost of training and tuning models becomes a
-significantly limiting factor for how fast innovation can move. In this talk we
-share the practical aspects of how Netflix uses Bayesian Optimization, and the
-real-world challenges we’ve encountered.
-
-### Julien Cornebise
-
-In this informal and much practical talk, I will present the story of our
-deployment and tentative use of Spearmint in an then early day Deep Learning
-start-up context: why and who we intended it for, what we needed and did in
-order to achieve it, what went right, what we would do differently. More
-generally, we will elaborate on  a few lessons we have learned, and how some
-recent developments in the community give us hope in this regard, looking
-forward to suscitate discussions for future GP applications to the field. Joint
-work with Andrei Rusu.
+Abstract to come.
 
