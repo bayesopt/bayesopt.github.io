@@ -31,11 +31,8 @@ this does not constitute an archival publication and no formal workshop
 proceedings will be made available, meaning contributors are free to publish
 their work in archival journals or conference.
 
-Stay tuned for a link to CMT...
-<!--
 Submissions can be made through
 [cmt.research.microsoft.com/BO2015](https://cmt.research.microsoft.com/BO2015).
--->
 
 ## Important dates
 
