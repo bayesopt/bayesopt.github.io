@@ -36,7 +36,7 @@ Submissions can be made through
 
 ## Important dates
 
-- Submission deadline: October 23rd, 2015 (5 pm Pacific)
+- Submission deadline: October 23rd, 2015 (11:59 pm Pacific)
 - Notification: November 2nd, 2015
 - Camera ready: December 4th, 2015
 
