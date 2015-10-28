@@ -63,9 +63,9 @@ optimization and Bayesian inference communities for involvement.
 
 - [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin) (University of Cambridge)
 - [Andreas Krause](http://las.ethz.ch/krausea.html) (ETH Zurich)
+- [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (Freiburg University)
 - [Jeff Schneider](https://www.cs.cmu.edu/~schneide/) (Carnegie Mellon University)
 - [Marc Deisenroth](http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/) (Imperial College London)
-- [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (Freiburg University)
 - [Matt Hoffman](http://mlg.eng.cam.ac.uk/hoffmanm/) (University of Cambridge)
 
 
