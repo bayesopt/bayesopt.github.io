@@ -4,6 +4,23 @@ permalink: /index.html
 weight: -1
 ---
 
+## Recent news
+
+Author notifications are out!
+
+Thanks to support from Microsoft Research, this year's BayesOpt will
+provide partial travel grants to help students participate to the workshop.    
+To apply, send an email to calandra@ias.tu-darmstadt.de including:
+
+  - information about the applicant (name, surname, position, and affiliation);
+  - information about any BayesOpt 2015 papers for which the applicant is an
+  	author;
+  - the applicant's CV.
+
+The application deadline for travel grants is **November 24th**.
+Note that, if funds allow it, we will also consider non-author students with
+interest in Bayesian optimization, so please apply!
+
 ## Bayesian Optimization: Scalability and Flexibility
 
 Bayesian optimization has emerged as an exciting subfield of machine learning
@@ -80,7 +97,8 @@ optimization and Bayesian inference communities for involvement.
 
 ## Important dates
 
-- Submission deadline: October 23rd, 2015 (11:59 pm Pacific)
-- Notification: November 2nd, 2015
+- <del>Submission deadline: October 23rd, 2015 (11:59 pm Pacific)</del>
+- <del>Notification: November 2nd, 2015</del>
+- **Travel grant application deadline: November 24th, 2015**
 - Camera ready: December 4th, 2015
 
