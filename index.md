@@ -6,11 +6,9 @@ weight: -1
 
 ## Recent news
 
-Author notifications are out!
-
 Thanks to support from Microsoft Research, this year's BayesOpt will
-provide partial travel grants to help students participate to the workshop.    
-To apply, send an email to calandra@ias.tu-darmstadt.de including:
+provide **partial travel grants** to help students participate to the workshop.    
+To apply, send an email to **calandra@ias.tu-darmstadt.de** including:
 
   - information about the applicant (name, surname, position, and affiliation);
   - information about any BayesOpt 2015 papers for which the applicant is an
