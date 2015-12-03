@@ -7,7 +7,8 @@ weight: -1
 ## Recent news
 
 Thanks to support from Microsoft Research, this year's BayesOpt will
-provide **partial travel grants** to help students participate to the workshop.    
+provide **partial travel grants** to help <del>students</del> **ANYONE**
+participate to the workshop.    
 To apply, send an email to **calandra@ias.tu-darmstadt.de** including:
 
   - information about the applicant (name, surname, position, and affiliation);
@@ -15,9 +16,8 @@ To apply, send an email to **calandra@ias.tu-darmstadt.de** including:
   	author;
   - the applicant's CV.
 
-The application deadline for travel grants is **November 24th**.
-Note that, if funds allow it, we will also consider non-author students with
-interest in Bayesian optimization, so please apply!
+The application deadline for travel grants is <del>November 24th</del>
+**December 11th**.
 
 ## Bayesian Optimization: Scalability and Flexibility
 
