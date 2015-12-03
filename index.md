@@ -97,6 +97,6 @@ optimization and Bayesian inference communities for involvement.
 
 - <del>Submission deadline: October 23rd, 2015 (11:59 pm Pacific)</del>
 - <del>Notification: November 2nd, 2015</del>
-- **Travel grant application deadline: November 24th, 2015**
-- Camera ready: December 4th, 2015
+- **Camera ready: December 4th, 2015**
+- **Travel grant application deadline: December 11th, 2015**
 
