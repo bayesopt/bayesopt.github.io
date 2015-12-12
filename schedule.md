@@ -41,15 +41,19 @@ Abstract to come.
 
 Abstract to come.
 
-### Jeff Schneider
+### Jeff Schneider -- Bayesian Optimization for Embedded Learning Systems
 
-Abstract to come.
+An important property of embedded learning systems is the ever-changing
+environment they create for all algorithms operating in the system.  Optimizing
+the performance of those algorithms becomes a perpetual on-line activity rather
+than a one-off task.  I will review some recent work on Bayesian optimization in
+robotics and scientific applications, focusing on scaling up the dimensionality
+and managing multi-fidelity evaluations.  I will finish with some thoughts on
+future research directions to support the move of these algorithms into embedded
+systems.
 
 ### Marc Deisenroth
 
 Abstract to come.
 
-### Matt W. Hoffman
-
-Abstract to come.
-
+### Matt W. Hoffman -- Information-based methods for Black-box Bayesian Optimization
