@@ -34,8 +34,6 @@ proceedings will be made available, meaning contributors are free to publish
 their work in archival journals or conference.
 
 Submissions are not yet open.
-# Submissions can be made through
-# [cmt.research.microsoft.com/BO2016](https://cmt.research.microsoft.com/BO2016).
 
 ## Important dates
 
