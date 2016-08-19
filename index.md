@@ -4,99 +4,43 @@ permalink: /index.html
 weight: -1
 ---
 
-## Recent news
+## Bayesian Optimization: Black-box Optimization and Beyond
 
-Thanks to support from Microsoft Research, this year's BayesOpt will
-provide **partial travel grants** to help <del>students</del> **ANYONE**
-participate to the workshop.    
-To apply, send an email to **calandra@ias.tu-darmstadt.de** including:
+Bayesian optimization has emerged as an exciting subfield of machine learning that is concerned with the global optimization of expensive, noisy, black-box functions using probabilistic methods. Systems implementing Bayesian optimization techniques have been successfully used to solve difficult problems in a diverse set of applications. Many recent advances in the methodologies and theory underlying Bayesian optimization have extended the framework to new applications and provided greater insights into the behaviour of these algorithms. Bayesian optimization is now increasingly being used in industrial settings, providing new and interesting challenges that require new algorithms and theoretical insights.
 
-  - information about the applicant (name, surname, position, and affiliation);
-  - information about any BayesOpt 2015 papers for which the applicant is an
-  	author;
-  - the applicant's CV.
+Classically, Bayesian optimization has been used purely for expensive single-objective black-box optimization. However, with the increased complexity of tasks and applications, this paradigm is proving to be too restricted. Hence, this year’s theme for the workshop will be “black-box optimization and beyond”. Among the recent trends that push beyond BO we can briefly enumerate:
+- Adapting BO to not-so-expensive evaluations.
+- “Open the black-box” and move away from viewing the model as a way of simply fitting a response surface, and towards modelling for the purpose of discovering and understanding the underlying process. For instance, this so-called grey-box modelling approach could be valuable in robotic applications for optimizing the controller, while simultaneously providing insight into the mechanical properties of the robotic system. 
+- “Meta-learning”, where a higher level of learning is used on top of BO in order to control the optimization process and make it more efficient. Examples of such meta-learning include learning curve prediction, Freeze-thaw Bayesian optimization, online batch selection, multi-task and multi-fidelity learning.
+- Multi-objective optimization where not a single objective, but multiple conflicting objectives are considered (e.g., prediction accuracy vs training time).
 
-The application deadline for travel grants is <del>November 24th</del>
-**December 11th**.
+The target audience for this workshop consists of both industrial and academic practitioners of Bayesian optimization as well as researchers working on theoretical and practical advances in probabilistic optimization. We expect that this pairing of theoretical and applied knowledge will lead to an interesting exchange of ideas and stimulate an open discussion about the long term goals and challenges of the Bayesian optimization community.
 
-## Bayesian Optimization: Scalability and Flexibility
-
-Bayesian optimization has emerged as an exciting subfield of machine learning
-that is concerned with the global optimization of noisy, black-box functions
-using probabilistic methods. Systems implementing Bayesian optimization
-techniques have been successfully used to solve difficult problems in a diverse
-set of applications. There have been many recent advances in the methodologies
-and theory underpinning Bayesian optimization that have extended the framework
-to new applications as well as provided greater insights into the behaviour of
-these algorithms. Bayesian optimization is now increasingly being used in
-industrial settings, providing new and interesting challenges that require new
-algorithms and theoretical insights.
-
-At last year’s NIPS workshop on Bayesian optimization the focus was on the
-intersection of “academia and industry”. Following up on this theme, the
-workshop this year will focus on scaling existing approaches to larger
-evaluation budgets, higher-dimensional search spaces, and more complex input
-spaces. While the computational complexity of common probabilistic regression
-models used in Bayesian optimization have confined it to relatively
-low-dimensional problems and small evaluation budgets, there have, in recent
-years, been several advances in scaling these probabilistic models to more
-demanding application domains. Furthermore, many applications of Bayesian
-optimization only make sense when considering concurrent evaluations, which
-departs from the traditional, strictly sequential Bayesian optimization
-framework. Recent theoretical and practical efforts have addressed the
-mini-batch, or parallel, evaluation framework.
-
-The goal of this workshop is to bring together advances in scalable and flexible
-probabilistic modelling, and batch exploration strategies to establish the state
-of the art in Bayesian optimization capabilities. Specifically, we will invite
-participants of the workshop to share their experiences and findings in applying
-Bayesian optimization at new scales and in new application domains. In addition,
-we wish to attract researchers from the broader scientific community in order to
-demonstrate the flexibility of Bayesian optimization and invite them to consider
-including it in their own experimental methodology. The key questions we will
-discuss are: how to successfully scale Bayesian optimization to large evaluation
-budgets? How to tackle high-dimensional or complex search spaces? How to apply
-Bayesian optimization in massive, distributed settings?
-
-The target audience for this workshop consists of both industrial and academic
-practitioners of Bayesian optimization as well as researchers working on
-theoretical advances in probabilistic global optimization. To this end we have
-invited many industrial users of Bayesian optimization to attend and speak at
-the workshop. We expect this exchange of industrial and academic knowledge will
-lead to a significant interchange of ideas and a clearer understanding of the
-challenges and successes of Bayesian optimization as a whole.
-
-A further goal is to encourage collaboration between the diverse set of
-researchers involved in Bayesian optimization. This includes not only
-interchange between industrial and academic researchers, but also between the
-many different sub-fields of machine learning which make use of Bayesian
-optimization or its components. We are also reaching out to the wider global
-optimization and Bayesian inference communities for involvement.
+A further goal of this workshop is to encourage collaboration between the diverse set of researchers involved in Bayesian optimization. This includes not only interchange between industrial and academic researchers, but also between the many different subfields of machine learning which make use of Bayesian optimization or its components. We are also reaching out to the wider optimization and engineering communities for involvement.
 
 
 ## Invited speakers and panelists
 
-- [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin) (University of Cambridge)
-- [Andreas Krause](http://las.ethz.ch/krausea.html) (ETH Zurich)
-- [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (Freiburg University)
-- [Jeff Schneider](https://www.cs.cmu.edu/~schneide/) (Carnegie Mellon University)
-- [Marc Deisenroth](http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/) (Imperial College London)
-- [Matt Hoffman](http://mlg.eng.cam.ac.uk/hoffmanm/) (University of Cambridge)
+- [Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of Birmingham)
+- [Jasper Snoek](http://people.seas.harvard.edu/~jsnoek/) (Twitter)
+- [Marc Toussaint](www.marc-toussaint.net) (University of Stuttgart)
+- [Roman Garnett](http://www.cse.wustl.edu/~garnett/) (Washington University in St. Louis)
+- [Will Welch](http://www.stat.ubc.ca/~will/) (University of British Columbia)
+- [Katharina Eggensperger](http://aad.informatik.uni-freiburg.de/people/eggensperger/index.html) (University of Freiburg)
 
 
 ## Organizers
 
-- [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/) (Oxford)
-- [Ryan P. Adams](http://www.seas.harvard.edu/directory/rpa) (Harvard University)
-- [Bobak Shahriari](http://cs.ubc.ca/~bshahr/) (University of British Columbia)
 - [Roberto Calandra](http://www.ausy.tu-darmstadt.de/Team/RobertoCalandra) (TU Darmstadt)
-- [Amar Shah](http://mlg.eng.cam.ac.uk/amar/) (University of Cambridge)
+- [Bobak Shahriari](http://cs.ubc.ca/~bshahr/) (University of British Columbia)
+- [Javier Gonzalez](http://javiergonzalezh.github.io/) (University of Sheffield)
+- [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
+- [Ryan P. Adams](http://www.seas.harvard.edu/directory/rpa) (Harvard University)
 
 
 ## Important dates
 
-- <del>Submission deadline: October 23rd, 2015 (11:59 pm Pacific)</del>
-- <del>Notification: November 2nd, 2015</del>
-- **Camera ready: December 4th, 2015**
-- **Travel grant application deadline: December 11th, 2015**
+- Submission deadline: 16 October 2016 (11:59 pm Pacific)
+- Notification: 02 November 2016
+- Camera ready: 04 December 2016
 
