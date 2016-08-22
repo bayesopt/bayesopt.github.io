@@ -33,7 +33,9 @@ this does not constitute an archival publication and no formal workshop
 proceedings will be made available, meaning contributors are free to publish
 their work in archival journals or conference.
 
-Submissions are not yet open.
+Submissions can be made through
+[cmt.research.microsoft.com/BAYESOPT2016/](https://cmt.research.microsoft.com/BAYESOPT2016/).
+
 
 ## Important dates
 
