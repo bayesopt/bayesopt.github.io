@@ -31,9 +31,9 @@ A further goal of this workshop is to encourage collaboration between the divers
 
 ## Organizers
 
-- [Roberto Calandra](http://www.ausy.tu-darmstadt.de/Team/RobertoCalandra) (TU Darmstadt)
+- [Roberto Calandra](http://www.ausy.tu-darmstadt.de/Team/RobertoCalandra) (UC Berkeley)
 - [Bobak Shahriari](http://cs.ubc.ca/~bshahr/) (University of British Columbia)
-- [Javier Gonzalez](http://javiergonzalezh.github.io/) (University of Sheffield)
+- [Javier Gonzalez](http://javiergonzalezh.github.io/) (Amazon)
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
 - [Ryan P. Adams](http://www.seas.harvard.edu/directory/rpa) (Harvard University)
 
