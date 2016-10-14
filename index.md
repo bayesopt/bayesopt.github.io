@@ -4,6 +4,8 @@ permalink: /index.html
 weight: -1
 ---
 
+
+
 ## Bayesian Optimization: Black-box Optimization and Beyond
 
 Bayesian optimization has emerged as an exciting subfield of machine learning that is concerned with the global optimization of expensive, noisy, black-box functions using probabilistic methods. Systems implementing Bayesian optimization techniques have been successfully used to solve difficult problems in a diverse set of applications. Many recent advances in the methodologies and theory underlying Bayesian optimization have extended the framework to new applications and provided greater insights into the behaviour of these algorithms. Bayesian optimization is now increasingly being used in industrial settings, providing new and interesting challenges that require new algorithms and theoretical insights.
@@ -40,7 +42,9 @@ A further goal of this workshop is to encourage collaboration between the divers
 
 ## Important dates
 
-- Submission deadline: 16 October 2016 (11:59 pm Pacific)
-- Notification: 02 November 2016
+** Due to numerous requests the submission deadline has been postponed of one week.**
+
+- Submission deadline: ~~16 October 2016~~ 23 October 2016 (11:59 pm Pacific)
+- Notification: ~~02 November 2016~~ 09 November 2016
 - Camera ready: 04 December 2016
 
