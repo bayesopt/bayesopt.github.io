@@ -39,7 +39,10 @@ Submissions can be made through
 
 ## Important dates
 
-- Submission deadline: 16 October 2016 (11:59 pm Pacific)
-- Notification: 02 November 2016
+** Due to numerous requests the submission deadline has been postponed of one week.**
+
+- Submission deadline: ~~16 October~~ 23 October 2016 (11:59 pm Pacific)
+- Notification: ~~02 November~~ 09 November 2016
 - Camera ready: 04 December 2016
+
 
