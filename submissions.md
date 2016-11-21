@@ -26,10 +26,11 @@ See also the [workshop overview](index.html) for more details.
 Papers must be in the latest NIPS format, but with a maximum of 4 pages
 (excluding references). Papers can be either anonymized or not (i.e. you can
 decide whether to uncomment or add `\nipsfinalcopy` to your document prior to
-submitting). The reviewing process will be anonymous.
+submitting). The reviewing process will be anonymous (i.e., blind).
 
-Accepted papers will also be made available on the workshop website. However,
-this does not constitute an archival publication and no formal workshop
+Accepted papers and eventual supplementary material will also be made available on the workshop website. 
+The camera-ready papers have to include the `\nipsfinalcopy`.
+However, this does not constitute an archival publication and no formal workshop
 proceedings will be made available, meaning contributors are free to publish
 their work in archival journals or conference.
 
