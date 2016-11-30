@@ -8,12 +8,25 @@ weight: 0
 
 ### Invited speakers
 
-- [Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of Birmingham)
-- [Jasper Snoek](http://people.seas.harvard.edu/~jsnoek/) (Twitter)
-- [Marc Toussaint](www.marc-toussaint.net) (University of Stuttgart)
-- [Roman Garnett](http://www.cse.wustl.edu/~garnett/) (Washington University in St. Louis)
-- [Will Welch](http://www.stat.ubc.ca/~will/) (University of British Columbia)
-- [Katharina Eggensperger](http://aad.informatik.uni-freiburg.de/people/eggensperger/index.html) (University of Freiburg)
+[Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of ---
+Birmingham)
+---
+
+[Jasper Snoek](http://people.seas.harvard.edu/~jsnoek/) (Twitter)
+---
+
+[Marc Toussaint](www.marc-toussaint.net) (University of Stuttgart)
+---
+
+[Roman Garnett](http://www.cse.wustl.edu/~garnett/) (Washington University in St. Louis)
+---
+
+[Will Welch](http://www.stat.ubc.ca/~will/) (University of British Columbia)
+---
+
+[Katharina Eggensperger](http://aad.informatik.uni-freiburg.de/people/eggensperger/index.html) (University of Freiburg)
+**Title:** Benchmarking Beyond Branin
+**Abstract:** Bayesian optimization has evolved to deal with problems beyond typical black box optimization. Recent approaches handle high dimensional problems, exploit cheap approximations of very costly problems, and optimize across a set of tasks. Tracking progress in this constantly evolving area of research requires thorough empirical evaluations. In this talk I will give an overview of possibilities to assess the performance of our methods, including a new class of surrogate benchmark problems which enable efficient and realistic comparisons.
 
 ### Timetable
 
