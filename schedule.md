@@ -18,6 +18,15 @@ weight: 0
 
 #### [Marc Toussaint](www.marc-toussaint.net) (University of Stuttgart)
 
+**Title:** Bayesian Optimization: Applications in Robotics and Better Hyperparameters
+
+**Abstract:** Bayesian Optimization became a standard tool for global black-box
+optimization, in particular in robotics. However, some aspects are still very unsatisfying, esp in practise: Naive choices of kernels
+(homogeneous squared exponential) tend to lead to grid-like covering;
+online adaptation of hyperparameters is intricate and, in my view, not
+sufficiently investigated. I will first report on some of our
+applications of BayesOpt for (safe) policy search and controller tuning.
+Then I discuss new work that proposes a novel non-homogeneous covariance function (that can pickup local polynomial models) and an online hyperparameter adaptation scheme that integrates ideas from classical optimization and performs very promisingly.
 
 
 ---
