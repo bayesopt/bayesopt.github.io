@@ -34,9 +34,11 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 
 ---
 
-#### Alex Wiltschko (Twitter)
+#### Alex Wiltschko (formerly Twitter)
 
+**Title:** Bayesian Optimization in the Wild
 
+**Abstract:** The performance of complicated engineering systems depends critically on careful configuration. However, black-box optimization, much less Bayesian Optimization, has not penetrated large-scale software engineering disciplines. I will give a few successful case studies of the application of BayesOpt to infrastructural problems in the modern data center. Also, I will highlight the organizational and communicational work required to use BayesOpt with teams that have little or no machine learning background.
 
 ---
 #### [Katharina Eggensperger](http://aad.informatik.uni-freiburg.de/people/eggensperger/index.html) (University of Freiburg)
