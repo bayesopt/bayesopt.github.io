@@ -11,9 +11,7 @@ weight: 0
 #### [Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of Birmingham)
 
 
----
 
-#### [Jasper Snoek](http://people.seas.harvard.edu/~jsnoek/) (Twitter)
 ---
 
 #### [Marc Toussaint](www.marc-toussaint.net) (University of Stuttgart)
@@ -36,7 +34,7 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 
 ---
 
-#### [Will Welch](http://www.stat.ubc.ca/~will/) (University of British Columbia)
+#### Alex Wiltschko(Twitter)
 
 
 
@@ -62,7 +60,7 @@ Saturday 10 December, 2016
 | 11:30 AM | Poster spotlights 2
 | 11:45 AM | Poster session 1
 | 12:00 PM | *Lunch Break*
-|  2:00 PM | Invited talk 3
+|  2:00 PM | Invited talk 3: Alex Wiltschko
 |  2:30 PM | Poster session 2
 |  3:00 PM | *Coffee Break*
 |  3:30 PM | Poster session 3
