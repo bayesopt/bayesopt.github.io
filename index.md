@@ -24,10 +24,9 @@ A further goal of this workshop is to encourage collaboration between the divers
 ## Invited speakers and panelists
 
 - [Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of Birmingham)
-- [Jasper Snoek](http://people.seas.harvard.edu/~jsnoek/) (Twitter)
+- Alex Wiltschko (Twitter)
 - [Marc Toussaint](www.marc-toussaint.net) (University of Stuttgart)
 - [Roman Garnett](http://www.cse.wustl.edu/~garnett/) (Washington University in St. Louis)
-- [Will Welch](http://www.stat.ubc.ca/~will/) (University of British Columbia)
 - [Katharina Eggensperger](http://aad.informatik.uni-freiburg.de/people/eggensperger/index.html) (University of Freiburg)
 
 

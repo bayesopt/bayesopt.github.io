@@ -34,7 +34,7 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 
 ---
 
-#### Alex Wiltschko(Twitter)
+#### Alex Wiltschko (Twitter)
 
 
 
