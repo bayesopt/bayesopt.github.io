@@ -10,7 +10,9 @@ weight: 0
 
 #### [Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of Birmingham)
 
+**Title:** Multiobjective Bayesian Optimization
 
+**Abstract:** Bayesian optimization solves the problem of selecting where to place the next search sample(s) when we are under severe budget limitations. It trades computational cost off against the cost of sampling. When we look at multiobjective algorithms we have some further issues: How should we set up the Gaussian process surrogate(s), and how should we adjust the acquisition functions? Advanced algorithms need to solve even more challenging questions: how do we estimate where the true Pareto front is, even before we get there, how do we account for constraints, how do we make use of prior knowledge, how do we deal with dynamic constraints that occur when our samples are, for example, from factory or laboratory processes that can't be stopped and changed at will, and how should we deal with various types of uncertainty? I will offer only partial solutions, and point to others I know working on these challenges. Hopefully this will lead into fruitful discussions. I will also offer some final remarks on benchmarking and what we desperately need in that area.
 
 ---
 
@@ -34,7 +36,7 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 
 ---
 
-#### Alex Wiltschko (formerly Twitter)
+#### Alex Wiltschko
 
 **Title:** Bayesian Optimization in the Wild
 
