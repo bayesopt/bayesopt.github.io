@@ -63,6 +63,10 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 #### [Roman Garnett](http://www.cse.wustl.edu/~garnett/) (Washington University in St. Louis)
 
 
+**Title:** Active Learning of Hyperparameters for Gaussian Processes
+
+**Abstract:** We propose an active learning method for learning the hyperparameters of a Gaussian process model. Although the technique is general, we will focus on a motivating example: automatically discovering latent low-dimensional structure in nominally high-dimensional functions. High-dimensional settings are increasingly frequent and important, but still present severe practical difficulties. Our technique may be used to perform adaptive initialization for tasks such as GP regression or Bayesian optimization.
+
 ---
 
 #### Alex Wiltschko
