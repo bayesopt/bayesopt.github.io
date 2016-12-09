@@ -43,6 +43,7 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 **Abstract:** The performance of complicated engineering systems depends critically on careful configuration. However, black-box optimization, much less Bayesian Optimization, has not penetrated large-scale software engineering disciplines. I will give a few successful case studies of the application of BayesOpt to infrastructural problems in the modern data center. Also, I will highlight the organizational and communicational work required to use BayesOpt with teams that have little or no machine learning background.
 
 ---
+
 #### [Katharina Eggensperger](http://aad.informatik.uni-freiburg.de/people/eggensperger/index.html) (University of Freiburg)
 
 **Title:** Benchmarking Beyond Branin
@@ -56,11 +57,11 @@ Saturday 10 December, 2016
 | --------:| ---------------------------------------------------
 |  9:00 AM | Introduction and opening remarks
 |  9:10 AM | Invited talk 1: Roman Garnett
-|  9:40 AM | Contributed talk 1: TBA
-|  9:55 AM | Contributed talk 2: TBA
+|  9:40 AM | Contributed talk 1: Learning Optimal Interventions 
+|  9:55 AM | Contributed talk 2: Efficient nonmyopic active search 
 | 10:10 AM | Poster spotlights 1
 | 10:30 AM | *Coffee Break*
-| 11:00 AM | Invited talk 2: Joshua Knowles
+| 11:00 AM | Invited talk 2: Katharina Eggensperger
 | 11:30 AM | Poster spotlights 2
 | 11:45 AM | Poster session 1
 | 12:00 PM | *Lunch Break*
@@ -69,6 +70,6 @@ Saturday 10 December, 2016
 |  3:00 PM | *Coffee Break*
 |  3:30 PM | Poster session 3
 |  4:00 PM | Invited talk 4: Marc Toussaint
-|  4:30 PM | Invited talk 5: Katharina Eggensperger
+|  4:30 PM | Invited talk 5: Joshua Knowles
 |  5:00 PM | Panel discussion &mdash; Black-box Optimization & Beyond
 |  6:00 PM | End 
