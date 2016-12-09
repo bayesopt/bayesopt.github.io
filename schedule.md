@@ -6,6 +6,35 @@ weight: 0
 
 ## Workshop schedule
 
+### Timetable
+
+Saturday 10 December, 2016
+
+| --------:| ---------------------------------------------------
+|  9:00 AM | Introduction and opening remarks
+|  9:10 AM | Invited talk 1: Roman Garnett
+|  9:40 AM | Contributed talk 1: Learning Optimal Interventions 
+|  9:55 AM | Contributed talk 2: Efficient nonmyopic active search 
+| 10:10 AM | Poster spotlights 1
+| 10:30 AM | *Coffee Break*
+| 11:00 AM | Invited talk 2: Katharina Eggensperger
+| 11:30 AM | Poster spotlights 2
+| 11:45 AM | Poster session 1
+| 12:00 PM | *Lunch Break*
+|  2:00 PM | Invited talk 3: Alex Wiltschko
+|  2:30 PM | Poster session 2
+|  3:00 PM | *Coffee Break*
+|  3:30 PM | Poster session 3
+|  4:00 PM | Invited talk 4: Marc Toussaint
+|  4:30 PM | Invited talk 5: Joshua Knowles
+|  5:00 PM | Panel discussion &mdash; Black-box Optimization & Beyond
+|  6:00 PM | End 
+
+### Poster spotlight
+
+Spotlight 1 at 10:10 will present the papers with ID: 1, 5, 13, 17, 19, 23, 24, 26, 2, 3, 10, 14 (in this order)
+Spotlight 2 at 10:10 will present the papers with ID: 4, 7, 11, 12, 15, 16, 18, 20, 21, 28, 29, 30, 32 (in this order)
+
 ### Invited speakers
 
 #### [Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of Birmingham)
@@ -50,26 +79,4 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 
 **Abstract:** Bayesian optimization has evolved to deal with problems beyond typical black box optimization. Recent approaches handle high dimensional problems, exploit cheap approximations of very costly problems, and optimize across a set of tasks. Tracking progress in this constantly evolving area of research requires thorough empirical evaluations. In this talk I will give an overview of possibilities to assess the performance of our methods, including a new class of surrogate benchmark problems which enable efficient and realistic comparisons.
 
-### Timetable
 
-Saturday 10 December, 2016
-
-| --------:| ---------------------------------------------------
-|  9:00 AM | Introduction and opening remarks
-|  9:10 AM | Invited talk 1: Roman Garnett
-|  9:40 AM | Contributed talk 1: Learning Optimal Interventions 
-|  9:55 AM | Contributed talk 2: Efficient nonmyopic active search 
-| 10:10 AM | Poster spotlights 1
-| 10:30 AM | *Coffee Break*
-| 11:00 AM | Invited talk 2: Katharina Eggensperger
-| 11:30 AM | Poster spotlights 2
-| 11:45 AM | Poster session 1
-| 12:00 PM | *Lunch Break*
-|  2:00 PM | Invited talk 3: Alex Wiltschko
-|  2:30 PM | Poster session 2
-|  3:00 PM | *Coffee Break*
-|  3:30 PM | Poster session 3
-|  4:00 PM | Invited talk 4: Marc Toussaint
-|  4:30 PM | Invited talk 5: Joshua Knowles
-|  5:00 PM | Panel discussion &mdash; Black-box Optimization & Beyond
-|  6:00 PM | End 
