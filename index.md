@@ -24,7 +24,7 @@ A further goal of this workshop is to encourage collaboration between the divers
 ## Invited speakers and panelists
 
 - [Joshua Knowles](http://www.cs.bham.ac.uk/~jdk/) (University of Birmingham)
-- Alex Wiltschko (Twitter)
+- Alex Wiltschko
 - [Marc Toussaint](www.marc-toussaint.net) (University of Stuttgart)
 - [Roman Garnett](http://www.cse.wustl.edu/~garnett/) (Washington University in St. Louis)
 - [Katharina Eggensperger](http://aad.informatik.uni-freiburg.de/people/eggensperger/index.html) (University of Freiburg)
@@ -32,7 +32,7 @@ A further goal of this workshop is to encourage collaboration between the divers
 
 ## Organizers
 
-- [Roberto Calandra](http://www.ausy.tu-darmstadt.de/Team/RobertoCalandra) (UC Berkeley)
+- [Roberto Calandra](http://www.robertocalandra.com) (UC Berkeley)
 - [Bobak Shahriari](http://cs.ubc.ca/~bshahr/) (University of British Columbia)
 - [Javier Gonzalez](http://javiergonzalezh.github.io/) (Amazon)
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
