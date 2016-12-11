@@ -78,7 +78,7 @@ previous workshops [look here](/past/).
   [(pdf)](/papers/2016/Ahmed.pdf)
 - Think Globally, Act Locally: a Local Strategy for Bayesian Optimization<br>
   Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, Svetha Venkatesh
-  [(pdf)](/papers/2016/Nguyen.pdf)	-->				
+  [(pdf)](/papers/2016/Nguyen.pdf)		
 - Bayesian Optimization with shape constraints<br>
   Michael Jauch, Victor Pena
   [(pdf)](/papers/2016/Jauch.pdf)			
