@@ -60,7 +60,7 @@ previous workshops [look here](/past/).
   [(pdf)](/papers/2016/Papaspyros.pdf)			
 - Learning Optimal Interventions<br>
   Jonas Mueller, David  Reshef, George Du, Tommi Jaakkola
-  [(pdf)](/papers/2016/MuellerEtal_BayesOpt16.pdf)		
+  [(pdf)](/papers/2016/Mueller.pdf)		
 - Bayesian Optimisation with Pairwise Preferential Returns<br>
   Javier Gonzalez, Zhenwen Dai, Andreas Damianou, Neil Lawrence
   [(pdf)](/papers/2016/Gonzalez.pdf)			
