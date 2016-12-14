@@ -12,9 +12,9 @@ Saturday 10 December, 2016
 
 | --------:| ---------------------------------------------------
 |  9:00 AM | Introduction and opening remarks
-|  9:10 AM | Invited talk 1: Roman Garnett
+|  9:10 AM | Invited talk 1: Roman Garnett [(slides)](/slides/2016/InvitedGarnett.pdf)
 |  9:40 AM | Contributed talk 1: Learning Optimal Interventions 
-|  9:55 AM | Contributed talk 2: Efficient nonmyopic active search 
+|  9:55 AM | Contributed talk 2: Efficient nonmyopic active search [(slides)](/slides/2016/ContributedGarnett.pdf)
 | 10:10 AM | Poster spotlights 1
 | 10:30 AM | *Coffee Break*
 | 11:00 AM | Invited talk 2: Katharina Eggensperger
@@ -68,6 +68,8 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 **Title:** Active Learning of Hyperparameters for Gaussian Processes
 
 **Abstract:** We propose an active learning method for learning the hyperparameters of a Gaussian process model. Although the technique is general, we will focus on a motivating example: automatically discovering latent low-dimensional structure in nominally high-dimensional functions. High-dimensional settings are increasingly frequent and important, but still present severe practical difficulties. Our technique may be used to perform adaptive initialization for tasks such as GP regression or Bayesian optimization.
+
+[(slides)](/slides/2016/InvitedGarnett.pdf)
 
 ---
 
