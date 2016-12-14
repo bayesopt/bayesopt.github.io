@@ -26,7 +26,7 @@ Saturday 10 December, 2016
 |  3:00 PM | *Coffee Break*
 |  3:30 PM | Poster session 3
 |  4:00 PM | Invited talk 4: Marc Toussaint
-|  4:30 PM | Invited talk 5: Joshua Knowles
+|  4:30 PM | Invited talk 5: Joshua Knowles [(slides)](http://www.slideshare.net/JoshuaKnowles/nips-2016-bayesopt-workshop-invited-talk)
 |  5:00 PM | Panel discussion &mdash; Black-box Optimization & Beyond
 |  6:00 PM | End 
 
@@ -42,6 +42,8 @@ Spotlight 2 at 10:10 will present the papers with ID: 4, 7, 11, 12, 15, 16, 18, 
 **Title:** Multiobjective Bayesian Optimization
 
 **Abstract:** Bayesian optimization solves the problem of selecting where to place the next search sample(s) when we are under severe budget limitations. It trades computational cost off against the cost of sampling. When we look at multiobjective algorithms we have some further issues: How should we set up the Gaussian process surrogate(s), and how should we adjust the acquisition functions? Advanced algorithms need to solve even more challenging questions: how do we estimate where the true Pareto front is, even before we get there, how do we account for constraints, how do we make use of prior knowledge, how do we deal with dynamic constraints that occur when our samples are, for example, from factory or laboratory processes that can't be stopped and changed at will, and how should we deal with various types of uncertainty? I will offer only partial solutions, and point to others I know working on these challenges. Hopefully this will lead into fruitful discussions. I will also offer some final remarks on benchmarking and what we desperately need in that area.
+
+[(slides)](http://www.slideshare.net/JoshuaKnowles/nips-2016-bayesopt-workshop-invited-talk)
 
 ---
 
