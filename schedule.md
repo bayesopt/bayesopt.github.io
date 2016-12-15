@@ -25,7 +25,7 @@ Saturday 10 December, 2016
 |  2:30 PM | Poster session 2
 |  3:00 PM | *Coffee Break*
 |  3:30 PM | Poster session 3
-|  4:00 PM | Invited talk 4: Marc Toussaint
+|  4:00 PM | Invited talk 4: Marc Toussaint [(slides)](/slides/2016/InvitedToussaint.pdf)
 |  4:30 PM | Invited talk 5: Joshua Knowles [(slides)](http://www.slideshare.net/JoshuaKnowles/nips-2016-bayesopt-workshop-invited-talk)
 |  5:00 PM | Panel discussion &mdash; Black-box Optimization & Beyond
 |  6:00 PM | End 
@@ -59,6 +59,7 @@ sufficiently investigated. I will first report on some of our
 applications of BayesOpt for (safe) policy search and controller tuning.
 Then I discuss new work that proposes a novel non-homogeneous covariance function (that can pickup local polynomial models) and an online hyperparameter adaptation scheme that integrates ideas from classical optimization and performs very promisingly.
 
+[(slides)](/slides/2016/InvitedToussaint.pdf)
 
 ---
 

@@ -27,7 +27,7 @@ previous workshops [look here](/past/).
   [(pdf)](/papers/2016/Mccourt.pdf)
 - Advancing Bayesian Optimization: The Mixed-Global-Local (MGL) Kernel and Length-Scale Cool Down<br>
   Kim Wabersich, Marc Toussaint
-  [(pdf)](/papers/2016/Wabersich.pdf)					
+  [(pdf)](/papers/2016/Wabersich.pdf) [(arxiv)](https://arxiv.org/abs/1612.03117)
 - Hypervolume-based Multi-objective Bayesian Optimization with Student-t Processes<br>
   Joachim Van der Herten, Ivo Couckuyt, Tom Dhaene
   [(pdf)](/papers/2016/Herten.pdf)		
