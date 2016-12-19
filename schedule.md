@@ -17,7 +17,7 @@ Saturday 10 December, 2016
 |  9:55 AM | Contributed talk 2: Efficient nonmyopic active search [(slides)](/slides/2016/ContributedGarnett.pdf)
 | 10:10 AM | Poster spotlights 1
 | 10:30 AM | *Coffee Break*
-| 11:00 AM | Invited talk 2: Katharina Eggensperger
+| 11:00 AM | Invited talk 2: Katharina Eggensperger [(slides)](/slides/2016/InvitedEggensperger.pdf)
 | 11:30 AM | Poster spotlights 2
 | 11:45 AM | Poster session 1
 | 12:00 PM | *Lunch Break*
@@ -88,4 +88,4 @@ Then I discuss new work that proposes a novel non-homogeneous covariance functio
 
 **Abstract:** Bayesian optimization has evolved to deal with problems beyond typical black box optimization. Recent approaches handle high dimensional problems, exploit cheap approximations of very costly problems, and optimize across a set of tasks. Tracking progress in this constantly evolving area of research requires thorough empirical evaluations. In this talk I will give an overview of possibilities to assess the performance of our methods, including a new class of surrogate benchmark problems which enable efficient and realistic comparisons.
 
-
+[(slides)](/slides/2016/InvitedEggensperger.pdf)
