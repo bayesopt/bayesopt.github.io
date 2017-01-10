@@ -65,7 +65,7 @@ previous workshops [look here](/past/).
   Javier Gonzalez, Zhenwen Dai, Andreas Damianou, Neil Lawrence
   [(pdf)](/papers/2016/Gonzalez.pdf)			
 - Designing Neural Network Hardware Accelerators with Decoupled Objective Evaluations<br>
-  Jose Miguel Hernandez-Lobato, Michael Gelbart, Brandon Reagan, Bob Adolf, Daniel Hernandez-Lobato, Paul Whatmough, David Brooks, Gu-Yeon Wei, Ryan Adams
+  Jose Miguel Hernandez-Lobato, Michael A. Gelbart, Brandon Reagen, Robert Adolf, Daniel Hernandez-Lobato, Paul N. Whatmough, David Brooks, Gu-Yeon Wei, Ryan P. Adams
   [(pdf)](/papers/2016/Lobato.pdf)			
 - Distributed Thompson Sampling for Large-scale Accelerated Exploration of Chemical Space<br>
   Jose Miguel Hernandez-Lobato, Edward Pyzer-Knapp, Alan Aspuru-Guzik, Ryan Adams
