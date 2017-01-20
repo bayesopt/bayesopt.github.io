@@ -48,7 +48,7 @@ previous workshops [look here](/past/).
   [(pdf)](/papers/2016/Li.pdf)
 - Hybrid Repeat/Multi-point Sampling for Highly Volatile Objective Functions<br>
   Brett Israelsen, Nisar Ahmed
-  [(pdf)](/papers/2016/Israelsen.pdf)				
+  [(pdf)](/papers/2016/Israelsen.pdf) [(arxiv)](https://arxiv.org/abs/1612.03981)	
 - Bayesian Optimisation for solving Continuous State-Action-Observation POMDPs<br>
 	Philippe Morere, Roman Marchant, Fabio Ramos
   [(pdf)](/papers/2016/Morere.pdf)		
