@@ -1,7 +1,7 @@
 ---
 title: Special Topic
 permalink: /special-issue.html
-weight: 0
+weight: 3
 ---
 
 Coming soon...
