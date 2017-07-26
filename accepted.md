@@ -8,7 +8,7 @@ Accepted papers
 ------------------
 
 Below will be the papers accepted for the 2016 workshop. For papers accepted at
-previous workshops [look here](/past/).
+previous workshops [look here](/past.html).
 
 - hyperSPACE: Automated Optimization of Complex Processing Pipelines for pySPACE<br>
   Torben Hansing, Mario Michael Krell, Frank Kirchner
