@@ -1,6 +1,6 @@
 ---
 title: Past Workshops
-permalink: /past/
+permalink: /past.html
 weight: 2
 ---
 

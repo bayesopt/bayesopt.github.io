@@ -9,9 +9,12 @@
       <header>
         <h1>{{ site.title }}</h1>
         <p>{{ site.description }}</p>
-        {% assign pages = site.pages | sort:"weight"  %}
-        {% for page in pages %}{% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        <a class="page-link" href="home.html">Home</a>
+        <a class="page-link" href="schedule.html">Schedule</a>
+        <a class="page-link" href="submissions.html">Submissions</a>
+        <a class="page-link" href="accepted.html">Accepted Papers</a>
+        <a class="page-link" href="past.html">Past Workshops</a>
+        <a class="page-link" href="special-issue.html">Special Issue</a>
         <br>
         {% endif %}{% endfor %}
       </header>
