@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /home.html
+permalink: /index.html
 weight: -1
 ---
 
