@@ -14,8 +14,7 @@ We are excited to announce, in collaboration with the Journal of Machine Learnin
 ## CALL FOR PAPERS
 
 Journal of Machine Learning Research (JMLR)  
-Special issue on "Bayesian Optimization”
-
+**Special issue on Bayesian Optimization**  
 [https://bayesopt.github.io/special-issue.html](https://bayesopt.github.io/special-issue.html)
 
 --------
@@ -36,7 +35,7 @@ Manuscripts should be prepared according to the JMLR submission procedure ([http
 All submissions should be limited to a maximum of 24 pages (references included)
 
 
-### FURTHER INFORMATION: 
+### Contact Us: 
 For further information you can contact us at [bayesopt.jmlr@gmail.com](mailto:bayesopt.jmlr@gmail.com)
 
 
