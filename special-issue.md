@@ -19,13 +19,13 @@ Journal of Machine Learning Research (JMLR)
 
 --------
 
-Bayesian optimization has emerged as an exciting subfield of machine learning that is concerned with optimization using probabilistic methods. Systems implementing Bayesian optimization techniques have been successfully used to solve difficult problems in a diverse set of applications, including automatic tuning of ML algorithms and robotics. Many recent advances in the methodologies and theory underlying Bayesian optimization have extended the framework to new applications and provided greater insights into the behaviour of these algorithms. Bayesian optimization is now increasingly being used in industrial settings, providing new and interesting challenges that require new algorithms and theoretical insights.
+Bayesian optimization has emerged as an exciting subfield of machine learning that is concerned with optimization using probabilistic methods. Systems implementing Bayesian optimization techniques have been successfully used to solve difficult problems in a diverse set of applications, including automatic tuning of ML algorithms, robotics, and many other systems. Several recent advances in the methodologies and theory underlying Bayesian optimization have extended the framework to new applications and provided greater insights into the behaviour of these algorithms. Bayesian optimization is now increasingly being used in industrial settings, providing new and interesting challenges that require new algorithms and theoretical insights.
 
 We welcome any submissions related to Bayesian optimization, including contributions to modeling, methodology, extensions, practical issues, and applications.
 
 
 ### IMPORTANT DATES & SUBMISSION
-- Deadline for manuscript submission: **01 March 2018**
+- Deadline for manuscript submission: **31 March 2018**
 - First Round of Reviews: May 2018 
 - Final Decision: 01 December 2018
 - Publication will be in early 2019
