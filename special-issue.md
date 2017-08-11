@@ -13,7 +13,7 @@ We are excited to announce, in collaboration with the Journal of Machine Learnin
 
 ## CALL FOR PAPERS
 
-Journal of Machine Learning Research (JMLR)\n
+Journal of Machine Learning Research (JMLR)  
 Special issue on "Bayesian Optimization”
 
 [https://bayesopt.github.io/special-issue.html](https://bayesopt.github.io/special-issue.html)
