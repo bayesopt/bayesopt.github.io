@@ -35,7 +35,7 @@ Manuscripts should be prepared according to the JMLR submission procedure ([http
 All submissions should be limited to a maximum of 24 pages (references included)
 
 
-### Contact Us: 
+### CONTACT US: 
 For further information you can contact us at [bayesopt.jmlr@gmail.com](mailto:bayesopt.jmlr@gmail.com)
 
 
