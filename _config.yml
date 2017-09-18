@@ -1,9 +1,9 @@
 # Site settings
-title: BayesOpt 2016
+title: BayesOpt 2017
 description: "
 NIPS Workshop on Bayesian Optimization
-<br>December 10, 2016
-<br>Barcelona, Spain"
+<br>December 9, 2017
+<br>Long Beach, USA"
 baseurl: ""
 url: "http://bayesopt.github.io"
 
