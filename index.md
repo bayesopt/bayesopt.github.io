@@ -60,4 +60,8 @@ Panel moderator:
 
 ## Important dates
 
-TBD
+- Submission deadline: 3 November 2017 (11:59 pm Pacific).
+- Notification: 17 November 2017.
+- Camera ready: 1 December 2017.
+- Workshop: 9 December 2017.
+ 

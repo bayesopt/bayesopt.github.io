@@ -39,6 +39,13 @@ Submissions can be made through
 [cmt.research.microsoft.com/BAYESOPT2017/](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBAYESOPT2017).
 
 
+## Registration to NIPS
+
+Presenters of accepted posters will have access to a reserved pool of NIPS
+tickets which includes *full conference* registration.
+
+Selected posters will also be eligible for *free* workshop registration.
+
 ## Important dates
 - Submission deadline: 3 November 2017 (11:59 pm Pacific).
 - Notification: 17 November 2017.
