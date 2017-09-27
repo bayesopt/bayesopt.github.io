@@ -26,7 +26,7 @@ Saturday 9 December, 2017
 |  3:30 PM | Poster session 3
 |  4:00 PM | Invited talk: Peter Frazier
 |  4:30 PM | Invited talk: Stefanie Jegelka
-|  5:00 PM | Panel discussion (moderated by Philipp Hennig) &mdash; Black-box Optimization & Beyond
+|  5:00 PM | Panel discussion (moderated by Philipp Hennig)
 |  6:00 PM | End 
 
 
