@@ -40,11 +40,9 @@ Submissions can be made through
 
 
 ## Important dates
-
-** Due to numerous requests the submission deadline has been postponed of one week.**
-
-- Submission deadline: 3 December 2017 (11:59 pm Pacific)
-- Notification: 17 November 2017
-- Camera ready: 1 December 2017
+- Submission deadline: 3 December 2017 (11:59 pm Pacific).
+- Notification: 17 November 2017.
+- Camera ready: 1 December 2017.
+- Workshop: 9 December 2017.
 
 
