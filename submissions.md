@@ -42,9 +42,9 @@ Submissions can be made through
 ## Registration to NIPS
 
 Presenters of accepted posters will have access to a reserved pool of NIPS
-tickets which includes *full conference* registration.
+tickets which includes **full conference** registration.
 
-Selected posters will also be eligible for *free* workshop registration.
+Selected posters will also be eligible for **free** workshop registration.
 
 ## Important dates
 - Submission deadline: 3 November 2017 (11:59 pm Pacific).
