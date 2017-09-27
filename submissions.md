@@ -35,15 +35,16 @@ proceedings will be made available, meaning contributors are free to publish
 their work in archival journals or conference.
 
 Submissions can be made through
-[cmt.research.microsoft.com/BAYESOPT2016/](https://cmt.research.microsoft.com/BAYESOPT2016/).
+
+[cmt.research.microsoft.com/BAYESOPT2017/](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FBAYESOPT2017).
 
 
 ## Important dates
 
 ** Due to numerous requests the submission deadline has been postponed of one week.**
 
-- Submission deadline: ~~16 October~~ 23 October 2016 (11:59 pm Pacific)
-- Notification: ~~02 November~~ 14 November 2016
-- Camera ready: 04 December 2016
+- Submission deadline: 3 December 2017 (11:59 pm Pacific)
+- Notification: 17 November 2017
+- Camera ready: 1 December 2017
 
 
