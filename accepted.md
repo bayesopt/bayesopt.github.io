@@ -7,7 +7,7 @@ weight: 1
 Accepted papers
 ------------------
 
-Below will be the papers accepted for the 2016 workshop. For papers accepted at
+Below will be the papers accepted for the 2017 workshop. For papers accepted at
 previous workshops [look here](/past.html).
 
 - Batched Large-scale Bayesian Optimization in High-dimensional Spaces
