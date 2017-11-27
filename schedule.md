@@ -25,7 +25,7 @@ Saturday 9 December, 2017
 |  3:00 PM | *Coffee Break*
 |  3:30 PM | Poster session 3
 |  4:00 PM | Invited talk: Peter Frazier
-|  4:30 PM | Invited talk: David Ginsbourger
+|  4:30 PM | Invited talk: David Ginsbourger *Quantifying and reducing uncertainties on sets under Gaussian Process priors*
 |  5:00 PM | Panel discussion (moderated by Philipp Hennig)
 |  6:00 PM | End 
 
