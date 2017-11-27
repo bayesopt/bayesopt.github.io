@@ -10,86 +10,69 @@ Accepted papers
 Below will be the papers accepted for the 2016 workshop. For papers accepted at
 previous workshops [look here](/past.html).
 
-- hyperSPACE: Automated Optimization of Complex Processing Pipelines for pySPACE<br>
-  Torben Hansing, Mario Michael Krell, Frank Kirchner
-  [(pdf)](/papers/2016/Hansing.pdf)
-- Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints<br>
-  Eduardo Garrido-Merchán, Daniel Hernandez-Lobato
-  [(pdf)](/papers/2016/Garrido.pdf)			
-- Multi-objective Optimization with Unbounded Solution Sets<br>
-  Oswin Krause, Tobias Glasmachers, Christian Igel
-  [(pdf)](/papers/2016/Krause.pdf)
-- Quantifying mismatch in Bayesian optimization<br>
-  Eric Schulz, Maarten Speekenbrink, Jose Miguel Hernandez-Lobato, Zoubin  Ghahramani, Samuel Gershman
-  [(pdf)](/papers/2016/Schulz.pdf)
-- Preemptive Termination of Suggestions during Sequential Kriging Optimization of a Brain Activity  Reconstruction Simulation<br>
-  Mike Mccourt, Ian Dewancker, Salvatore Ganci
-  [(pdf)](/papers/2016/Mccourt.pdf)
-- Advancing Bayesian Optimization: The Mixed-Global-Local (MGL) Kernel and Length-Scale Cool Down<br>
-  Kim Wabersich, Marc Toussaint
-  [(pdf)](/papers/2016/Wabersich.pdf) [(arxiv)](https://arxiv.org/abs/1612.03117)
-- Hypervolume-based Multi-objective Bayesian Optimization with Student-t Processes<br>
-  Joachim Van der Herten, Ivo Couckuyt, Tom Dhaene
-  [(pdf)](/papers/2016/Herten.pdf)		
-- Factored Contextual Policy Search with Bayesian Optimization<br>
-  Peter Karkus, Andras Kupcsik, David Hsu, Wee Sun Lee
-  [(pdf)](/papers/2016/Karkus.pdf)
-- Infinite dimensions optimistic optimisation with applications on physical systems<br>
-  Muhammad Kasim, Peter Norreys,
-  [(pdf)](/papers/2016/Kasim.pdf)
-- A Physically-grounded and Data-efficient Approach to Motion Prediction using Black-box Optimization<br>
-  Shaojun Zhu, Abdeslam Boularias
-  [(pdf)](/papers/2016/Zhu.pdf)		
-- A Simple Recursive Algorithm for calculating Expected Hypervolume Improvement<br>
-  Alistair Shilton, Santu Rana, Sunil Gupta, Svetha Venkatesh
-  [(pdf)](/papers/2016/Shilton.pdf)			
-- High Dimensional Bayesian Optimization with Elastic Gaussian Process<br>
-  Cheng Li, Santu Rana, Sunil Gupta, Vu Nguyen, Svetha Venkatesh
-  [(pdf)](/papers/2016/Li.pdf)
-- Hybrid Repeat/Multi-point Sampling for Highly Volatile Objective Functions<br>
-  Brett Israelsen, Nisar Ahmed
-  [(pdf)](/papers/2016/Israelsen.pdf) [(arxiv)](https://arxiv.org/abs/1612.03981)	
-- Bayesian Optimisation for solving Continuous State-Action-Observation POMDPs<br>
-	Philippe Morere, Roman Marchant, Fabio Ramos
-  [(pdf)](/papers/2016/Morere.pdf)		
-- Multiple Recommendation for Bayesian optimization via Multi-Scale Search<br>
-  Tinu Theckel Joy, Santu Rana, Sunil Gupta, Svetha Venkatesh
-  [(pdf)](/papers/2016/Theckel.pdf)			
-- Safety-Aware Robot Damage Recovery Using Constrained Bayesian Optimization and Simulated Priors<br>
-  Vaios Papaspyros, Konstantinos  Chatzilygeroudis, Vassilis Vassiliades, Jean-Baptiste Mouret
-  [(pdf)](/papers/2016/Papaspyros.pdf)			
-- Learning Optimal Interventions<br>
-  Jonas Mueller, David  Reshef, George Du, Tommi Jaakkola
-  [(pdf)](/papers/2016/Mueller.pdf)		
-- Bayesian Optimisation with Pairwise Preferential Returns<br>
-  Javier Gonzalez, Zhenwen Dai, Andreas Damianou, Neil Lawrence
-  [(pdf)](/papers/2016/Gonzalez.pdf)			
-- Designing Neural Network Hardware Accelerators with Decoupled Objective Evaluations<br>
-  Jose Miguel Hernandez-Lobato, Michael A. Gelbart, Brandon Reagen, Robert Adolf, Daniel Hernandez-Lobato, Paul N. Whatmough, David Brooks, Gu-Yeon Wei, Ryan P. Adams
-  [(pdf)](/papers/2016/Lobato.pdf)			
-- Distributed Thompson Sampling for Large-scale Accelerated Exploration of Chemical Space<br>
-  Jose Miguel Hernandez-Lobato, Edward Pyzer-Knapp, Alan Aspuru-Guzik, Ryan Adams
-  [(pdf)](/papers/2016/LobatoEdward.pdf)
-- Tuning the Scheduling of Distributed Stochastic Gradient Descent with Bayesian Optimization<br>
-  Valentin Dalibard, Michael Schaarschmidt, Eiko Yoneki
-  [(pdf)](/papers/2016/Dalibard.pdf)
-- Do we need “Harmless” Bayesian Optimization and “First-Order” Bayesian Optimization?<br>
-  Mohamed Osama Ahmed, Bobak Shahriari, Mark Schmidt
-  [(pdf)](/papers/2016/Ahmed.pdf)
-- Think Globally, Act Locally: a Local Strategy for Bayesian Optimization<br>
-  Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, Svetha Venkatesh
-  [(pdf)](/papers/2016/Nguyen.pdf)		
-- Bayesian Optimization with shape constraints<br>
-  Michael Jauch, Victor Pena
-  [(pdf)](/papers/2016/Jauch.pdf)			
-- Efficient nonmyopic active search<br>
-  Shali  Jiang, Gustavo Malkomes, Geoff Converse, Alyssa Shofner, Benjamin Moseley, Roman Garnett
-  [(pdf)](/papers/2016/Jiang.pdf)							
-
-
+- Batched Large-scale Bayesian Optimization in High-dimensional Spaces
+   Zi Wang, MIT; Clement Gehring, MIT; Pushmeet Kohli, DeepMind; Stefanie Jegelka, MIT
+- Information-Based Multi-Fidelity Bayesian Optimization
+   Yehong Zhang, National University of Singapore; Trong Nghia Hoang, MIT; Kian Hsiang Low, National University of Singapore ; Mohan Kankanhalli, National University of Singapore,
+- Context-Dependent Bayesian Optimization in Real-Time Optimal Control: A Case Study in Airborne Wind Energy Systems
+   Ali Baheri, UNC Charlotte
+- Constrained Bayesian Optimization for Automatic Chemical Design
+   Ryan-Rhys Griffiths, University of Cambridge; Jose-Miguel Hernandez-Lobato, University of Cambridge
+- Learning to Transfer Initializations for Bayesian Hyperparameter Optimization
+   Jungtaek Kim, POSTECH; Saehoon Kim, POSTECH; Seungjin Choi, POSTECH
+- Bayesian Optimization of Unimodal Functions
+   Michael Andersen, Aalto University; Eero Siivola, Aalto University; Aki Vehtari, Aalto University
+- Bayesian Adaptive Direct Search: Hybrid Bayesian Optimization for Model Fitting
+   Luigi Acerbi, New York University; Wei Ji Ma, New York University
+- Efficient nonmyopic batch active search
+   Shali Jiang, Washington University in St. Louis; Gustavo Malkomes, Washington University in St. Louis; Matthew Abbott, Washington University in St. Louis; Benjamin Moseley, Washington University in St. Louis; Roman Garnett, Washington University in St. Louis
+- Predictive Variance Reduction Search
+   Vu Nguyen, Deakin University; Sunil Gupta, Deakin University, Australia; Santu Rana, Deakin University, Australia; Cheng Li, Deakin University; Svetha Venkatesh, Deakin University
+- Distance Exploration for Scalable Batch Bayesian Optimization
+   Vu Nguyen, Deakin University; Sunil Gupta, Deakin University, Australia; Santu Rana, Deakin University, Australia; Cheng Li, Deakin University; Svetha Venkatesh, Deakin University
+- Bayesian Optimization Under Uncertainty
+   Justin Beland, University of Toronto; Prasanth Nair, University of Toronto
+- Bayesian Optimization with Monotonicity Information
+   Cheng Li, Deakin University; Santu Rana, Deakin University, Australia; Sunil Gupta, Deakin University, Australia; Vu Nguyen, Deakin University; Svetha Venkatesh, Deakin University
+- Correcting boundary over-exploration deficiencies in Bayesian optimization with virtual derivative sign observations
+   Eero Siivola, Aalto University; aki Vehtari, Aalto University; Javier Gonzalez, Amazon.com; Jarno Vanhatalo, University of Helsinki
+- Fast Information-theoretic Bayesian Optimisation
+   Binxin Ru, University of Oxford; Michael A.  Osborne, University of Oxford; Mark Mcleod, University of Oxford
+- Finding minimum energy paths using Gaussian process regression
+   Olli-Pekka Koistinen, Aalto University; aki Vehtari, Aalto University
+- Continuous-Fidelity Bayesian Optimization with Knowledge Gradient
+   Jian Wu, Cornell University; Peter Frazier, Cornell University
+- Probabilistic Optimization with Latent Search for Automatic Model Selection
+   Xiaoyu Lu, University of Oxford; Javier Gonzalez, Amazon.com; Zhenwen Dai, Amazon; Neil Lawrence, Amazon
+- RoBO: A Flexible and Robust Bayesian Optimization Framework in Python
+   Aaron Klein, Universität Freiburg; Stefan Falkner, University of Freiburg; Numair Mansur, University of Freiburg; Frank Hutter, University of Freiburg
+- GPflowOpt: A Bayesian Optimization Library using TensorFlow
+   Nicolas Knudde, Ghent University - imec; Joachim van der Herten, Ghent University - imec; Tom Dhaene, Ghent University - imec; Ivo Couckuyt, Ghent University - iMinds
+- Memory Bandits: a Bayesian Approach for the Switching Bandit problem
+   Reda ALAMI, Orange Labs; Odalric Maillard, Inria; Raphael Feraud, Orange Labs
+- Learning Locomotion Primitives from Contextual Bayesian Optimization
+   Brian Yang, UC Berkeley; Grant Wang, UC Berkeley; Roberto Calandra, UC Berkeley; Daniel Contreras, UC Berkeley; Sergey Levine, UC Berkeley; Kristofer Pister, UC Berkeley
+- The Kalai-Smorodinski solution for many-objective Bayesian optimization
+Mickael Binois, University of Chicago; Victor Picheny, INRA; Abderrahmane Habbal, Universite de Nice
+- ADMMBO, An ADMM Framework for Bayesian Optimization with Unknown Constraints
+Setareh Ariafar, Northeastern University; Jaume Coll-Font , Northeastern University; Dana Brooks, Northeastern University; Jennifer Dy, Northeastern
+- Filtering Outliers in Bayesian Optimization
+Ruben Martinez-Cantin, SigOpt; Kevin Tee, SigOpt; Mike Mccourt, SigOpt; Katharina  Eggensperger, University of Freiburg
+- The reparameterization trick for acquisition functions
+James Wilson, Imperial College of London
+- A parametric approach to Bayesian optimization with pairwise comparisons
+Marco Cox, Eindhoven University of Technology; Bert de Vries, Eindhoven University of Technology
+- Combining Hyperband and Bayesian Optimization
+Stefan Falkner, University of Freiburg; Aaron Klein, Universität Freiburg; Frank Hutter, University of Freiburg
+- Bayesian Optimization for a Better Dessert
+Greg Kochanski, Google, Inc.; Daniel Golovin, Google, Inc.; John Karro, Google, Inc.; Ben Solnik, Google, Inc.; Subhodeep Moitra, Google, Inc.; D Sculley, Google
+- Multi-Attribute Bayesian Optimization under Utility Uncertainty
+Raul Astudillo Marban, Cornell University; Peter Frazier, Cornell University
+- Shape optimization in laminar ﬂow
+Stephan Eismann, Stanford University; Stefan Bartzsch, TU Munich; Stefano  Ermon, Stanford University
 
 
 Program Committee
 ------------------
 
-We would like to thank our program committee for their great help in reviewing submissions: Archambeau Cedric, Emile Contal, Daniel Hernandez-Lobato, David Duvenaud, Katharina Eggensperger, Favour Nyikosa, Matthias Feurer, Roman Garnett, Ian Dewancker, John-Alexander Assael, Rodolphe Jenatton, Jan H Metzen, Jose Miguel Hernandez-Lobato, James Wilson, Aaron Klein, Kevin Swersky, Marc Deisenroth, Mike Mccourt, Mickaël Binois, Matt Hoffman, Philipp Hennig, Ruben Martinez-Cantin, Stefan Falkner, Paul Supratik, Takayuki Osa, Filipe Veiga, Zhenwen Dai, Zi Wang, Ziyu Wang.
+We would like to thank our program committee for their great help in reviewing submissions: Yannis Assael, Mickaël Binois, Roberto Calandra, Konstantinos Chatzilygeroudis, Harvey Cheng, Ivo Couckuyt, Zhenwen Dai, Valentin Dalibard, Andreas Damianou, Ian Dewancker, Ian Dewancker, Katharina Eggensperger, Matthias Feurer, Roman Garnett, Eduardo Garrido, Roger Grosse, Sunil Gupta, Philipp Hennig, Daniel Hernandez, Rodolphe Jenatton, Shali Jiang, Muhammad Kasim, Aaron Klein, Cheng Li, Gustavo Malkomes, Mike Mccourt, Philippe Morere, Jean-Baptiste, Jonas Mueller, Emisa Nategh, Vu Nguyen, Jose Nogueira, Takayuki Osa, Michael A, Vaios Papaspyros, Victor Pena, Edward Pyzer, Dhanesh Ramachandram, Santu Rana, Michael Schaarschmidt, Bobak Shahriari, Alistair Shilton, Jasper Snoek, Paul Supratik, Kevin Tee, Tinu Theckel, Brendan Tracey, Joachim van, Vassilis Vassiliades, Filipe Veiga, Kim Wabersich, Zi Wang, Eiko Yoneki, Shaojun Zhu.
