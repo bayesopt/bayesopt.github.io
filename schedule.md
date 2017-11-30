@@ -6,11 +6,9 @@ weight: 0
 
 ## Workshop schedule
 
-### Timetable
-
 Saturday 9 December, 2017
 
-| Start time | Session
+| Timetable | Session
 | ----------:| ---------------------------------------------------
 |  9:00 AM | Introduction and opening remarks
 |  9:10 AM | Invited talk: Andreas Krause
