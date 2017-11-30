@@ -10,6 +10,7 @@ weight: 0
 
 Saturday 9 December, 2017
 
+| Start time | Session
 | ----------:| ---------------------------------------------------
 |  9:00 AM | Introduction and opening remarks
 |  9:10 AM | Invited talk: Andreas Krause
