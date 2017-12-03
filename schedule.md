@@ -19,7 +19,7 @@ Saturday 9 December, 2017
 | 11:30 AM | Poster spotlights 2
 | 11:45 AM | Poster session 1
 | 12:00 PM | *Lunch Break*
-|  2:00 PM | Invited talk: Romy Lorenz
+|  2:00 PM | Invited talk: Romy Lorenz <br> *Neuroadaptive Bayesian Optimization - Implications for Cognitive Sciences*
 |  2:30 PM | Poster session 2
 |  3:00 PM | *Coffee Break*
 |  3:30 PM | Poster session 3
