@@ -25,7 +25,7 @@ Saturday 9 December, 2017
 |  3:30 PM | Poster session 3
 |  4:00 PM | Invited talk: Peter Frazier <br> *Knowledge Gradient Methods for Bayesian Optimization*
 |  4:30 PM | Invited talk: David Ginsbourger <br> *Quantifying and reducing uncertainties on sets under Gaussian Process priors*
-|  5:00 PM | Panel discussion (moderated by Philipp Hennig) <br> [Ask questions](questions.html)
+|  5:00 PM | Panel discussion (moderated by Philipp Hennig) <br> Yutian Chen, Romy Lorenz, Peter Frazier and David Ginsbourger <br> [Ask questions](questions.html)
 |  6:00 PM | End 
 
 
