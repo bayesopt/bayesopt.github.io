@@ -60,6 +60,7 @@ Jian Wu, Cornell University; Peter Frazier, Cornell University
   [(pdf)](/papers/2017/20.pdf)
 - Probabilistic Optimization with Latent Search for Automatic Model Selection<br>
    Xiaoyu Lu, University of Oxford; Javier Gonzalez, Amazon.com; Zhenwen Dai, Amazon; Neil Lawrence, Amazon
+  [(pdf)](/papers/2017/21.pdf)
 - RoBO: A Flexible and Robust Bayesian Optimization Framework in Python<br>
    Aaron Klein, Universität Freiburg; Stefan Falkner, University of Freiburg; Numair Mansur, University of Freiburg; Frank Hutter, University of Freiburg
   [(pdf)](/papers/2017/22.pdf)
