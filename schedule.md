@@ -81,7 +81,7 @@ Setareh Ariafar, Northeastern University; Jaume Coll-Font , Northeastern Univers
 24. Filtering Outliers in Bayesian Optimization<br>
 Ruben Martinez-Cantin, SigOpt; Kevin Tee, SigOpt; Mike Mccourt, SigOpt; Katharina  Eggensperger, University of Freiburg
 25. The reparameterization trick for acquisition functions<br>
-James Wilson, Imperial College of London
+James Wilson, Imperial College of London; Riccardo Moriconi, Imperial College of London; Frank Hutter, University of Freiburg; Marc Peter Deisenroth, Imperial College of London
 26. A parametric approach to Bayesian optimization with pairwise comparisons<br>
 Marco Cox, Eindhoven University of Technology; Bert de Vries, Eindhoven University of Technology
 27. Combining Hyperband and Bayesian Optimization<br>
