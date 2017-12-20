@@ -23,7 +23,7 @@ Saturday 9 December, 2017
 |  2:30 PM | Poster session 2
 |  3:00 PM | *Coffee Break*
 |  3:30 PM | Poster session 3
-|  4:00 PM | Invited talk: Peter Frazier <br> *Knowledge Gradient Methods for Bayesian Optimization*
+|  4:00 PM | Invited talk: Peter Frazier <br> *Knowledge Gradient Methods for Bayesian Optimization* <br> [(pdf)](/slides/2017/BayesOptWorkshopFrazier.pdf)
 |  4:30 PM | Invited talk: David Ginsbourger <br> *Quantifying and reducing uncertainties on sets under Gaussian Process priors* <br> [(pdf)](/slides/2017/NIPS_BOws_Ginsbourger_09_12_2017.pdf)
 |  5:00 PM | Panel discussion (moderated by Philipp Hennig) <br> Yutian Chen, Romy Lorenz, Peter Frazier and David Ginsbourger <br> [Ask questions](questions.html)
 |  6:00 PM | End 
@@ -76,7 +76,7 @@ Saturday 9 December, 2017
    Brian Yang, UC Berkeley; Grant Wang, UC Berkeley; Roberto Calandra, UC Berkeley; Daniel Contreras, UC Berkeley; Sergey Levine, UC Berkeley; Kristofer Pister, UC Berkeley
 22. The Kalai-Smorodinski solution for many-objective Bayesian optimization<br>
 Mickael Binois, University of Chicago; Victor Picheny, INRA; Abderrahmane Habbal, Universite de Nice
-23. ADMMBO, An ADMM Framework for Bayesian Optimization with Unknown Constraints<br>
+23. An ADMM Framework for Constrained Bayesian Optimization<br>
 Setareh Ariafar, Northeastern University; Jaume Coll-Font , Northeastern University; Dana Brooks, Northeastern University; Jennifer Dy, Northeastern
 24. Filtering Outliers in Bayesian Optimization<br>
 Ruben Martinez-Cantin, SigOpt; Kevin Tee, SigOpt; Mike Mccourt, SigOpt; Katharina  Eggensperger, University of Freiburg

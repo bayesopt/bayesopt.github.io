@@ -76,7 +76,7 @@ Jian Wu, Cornell University; Peter Frazier, Cornell University
 - The Kalai-Smorodinski solution for many-objective Bayesian optimization<br>
 Mickael Binois, University of Chicago; Victor Picheny, INRA; Abderrahmane Habbal, Universite de Nice
   [(pdf)](/papers/2017/28.pdf)
-- ADMMBO, An ADMM Framework for Bayesian Optimization with Unknown Constraints<br>
+- An ADMM Framework for Constrained Bayesian Optimization<br>
 Setareh Ariafar, Northeastern University; Jaume Coll-Font , Northeastern University; Dana Brooks, Northeastern University; Jennifer Dy, Northeastern
   [(pdf)](/papers/2017/30.pdf)
 - Filtering Outliers in Bayesian Optimization<br>
