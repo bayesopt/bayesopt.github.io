@@ -32,7 +32,7 @@ We welcome any submissions related to Bayesian optimization, including contribut
 
 Manuscripts should be prepared according to the JMLR submission procedure ([http://www.jmlr.org/author-info.html#Submission](http://www.jmlr.org/author-info.html#Submission)), and the submission should be done via the JMLR electronic submission management system ([http://jmlr.csail.mit.edu/manudb/](http://jmlr.csail.mit.edu/manudb/)) by selecting “bayesopt” as special issue.
 
-All submissions should be limited to a maximum of 24 pages (references included)
+All submissions should be limited to a maximum of **24 pages** (Including reference, appendix, and any other supplementary material).
 
 
 ### CONTACT US: 
