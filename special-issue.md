@@ -25,7 +25,7 @@ We welcome any submissions related to Bayesian optimization, including contribut
 
 
 ### IMPORTANT DATES & SUBMISSION
-- Deadline for manuscript submission: **31 March 2018**
+- Deadline for manuscript submission: ~~31 March 2018~~ **14 April 2018**
 - First Round of Reviews: May 2018 
 - Final Decision: 01 December 2018
 - Publication will be in early 2019
