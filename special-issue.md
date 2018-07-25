@@ -25,8 +25,10 @@ We welcome any submissions related to Bayesian optimization, including contribut
 
 
 ### IMPORTANT DATES & SUBMISSION
-- Deadline for manuscript submission: ~~31 March 2018~~ **14 April 2018** ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- First Round of Reviews: May 2018 
+**NOTE: Due to an overwhelming number of submissions, finding appropriate high-quality reviewers proved difficult. Most reviews should be out by August on a rolling base.**
+
+- Deadline for manuscript submission: ~~14 April 2018~~ ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- First Round of Reviews: on a rolling base
 - Final Decision: 01 December 2018
 - Publication will be in early 2019
 
